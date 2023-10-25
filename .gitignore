@@ -31,3 +31,4 @@ dist/
 
 # Licensei cache file
 .licensei.cache
+.vscode/launch.json
